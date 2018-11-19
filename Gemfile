@@ -6,3 +6,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "lakebed", :path => "lakebed"
 gem "rspec"
+gem "fog-backblaze"
